@@ -1,0 +1,4 @@
+interface:
+  display_name: "ТОПИМ"
+  short_description: "Рекламные тексты в стиле Ильвины с выбором режима"
+  default_prompt: "Используй $topim: давай готовить РК."
